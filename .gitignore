@@ -14,7 +14,7 @@ dist-ssr
 src
 
 package.json
-package-pack.json
+package-lock.json
 
 vite.config.js
 
